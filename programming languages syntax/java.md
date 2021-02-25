@@ -157,3 +157,5 @@ constant 改变 需要重新编译使用他的类
 
 static在static block/static method初始化
 
+### nested class
+
