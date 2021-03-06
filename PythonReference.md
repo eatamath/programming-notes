@@ -26,6 +26,16 @@ Z  1.333333   4     3  2.081666
 pd.merge(frame_1, frame_2, left_on='county_ID', right_on='countyid')
 ```
 
+
+
+#### 参考
+
+[Pandas 100 题](https://blog.csdn.net/AvalancheM/article/details/81293149)
+
+[Pandas Exercises](https://github.com/guipsamora/pandas_exercises)
+
+
+
 ### Sklearn
 
 ##### 模型评价Metrics
